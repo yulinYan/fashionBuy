@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="214c1cf1-cec7-4c79-9a64-fff150c5d208" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/07-component-class-define.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/07-component-class-define.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/08-component-render.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/08-component-render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/09-component-props.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/09-component-props.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/10-component-props-slot.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/10-component-props-slot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/12-component-nested.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/12-component-nested.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/13-component-events-define.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/13-component-events-define.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/15-component-lifecircle-clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/15-component-lifecircle-clock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xa-react-1907-cource/16-react整合第三方的框架.html" beforeDir="false" afterPath="$PROJECT_DIR$/xa-react-1907-cource/16-react整合第三方的框架.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/xa-react-1907-cource" />
+  </component>
+  <component name="ProjectId" id="1TefHuq191UmnEuh8zp8ptqa2v6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/项目/迷橙" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="214c1cf1-cec7-4c79-9a64-fff150c5d208" name="Default Changelist" comment="" />
+      <created>1573825397363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573825397363</updated>
+      <workItem from="1573825398651" duration="4134000" />
+      <workItem from="1573867589675" duration="10594000" />
+      <workItem from="1573894348361" duration="1912000" />
+      <workItem from="1574039475046" duration="1135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
